@@ -15,7 +15,9 @@ app.set('views', __dirname + '/server/views');
 app.set('view engine', 'jade');
 
 app.use(logger('dev'));
-app.use(bodyParser.urlencoded());
+app.use(bodyParser.urlencoded({
+	extended: true
+}));
 
 app.use(stylus.middleware(
 	{
