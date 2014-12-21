@@ -1,0 +1,23 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "description": "MultiVision Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dibble/mean-example.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Dibble/mean-example/issues"
+  },
+  "homepage": "https://github.com/Dibble/mean-example",
+  "dependencies": {
+    "express": "~4.10.6",
+    "jade": "~1.8.2"
+  }
+}
