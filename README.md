@@ -5,4 +5,4 @@ Example website using meanstack
 
 
 Based on this tutorial:
-https://thinkster.io/angulartutorial/mean-stack-tutorial/
+http://www.pluralsight.com/courses/building-angularjs-nodejs-apps-mean
